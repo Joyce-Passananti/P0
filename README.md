@@ -1,7 +1,7 @@
 # P0
-Page Requirements
+## Page Requirements
 
-Your static webpage must:
+### Your static webpage must:
 
 - be hosted on GitHub Pages
 - be served via HTTPS
@@ -9,7 +9,8 @@ Your static webpage must:
 - contain 100% valid HTML5
 - contain 100% valid CSS
 - utilize an external style sheet to provide style changes (no inline styles, i.e., provided via style attributes)
-- You webpage must include:
+- 
+### You webpage must include:
 
 - a page title
 - a page heading
