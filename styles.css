@@ -1,0 +1,23 @@
+body {
+    background-color: darkslateblue;
+  }
+  h1 {
+    color: lightseagreen;
+  }
+  ul {
+    color: rgb(165, 153, 234);
+  }
+  a {
+    color: aliceblue;
+  }
+  table {    
+    color: violet;
+    width: 200px;
+    height: 100px;
+  }
+  table, th, tr, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 10px;
+    background-color: blueviolet;
+  }
